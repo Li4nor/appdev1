@@ -1,0 +1,14 @@
+Lianor Bagaporo
+BSIS 3
+
+1.	As a Manager: 
+
+As a manager, I would like an immediate response and reassessment by checking on the developer with empathy and understanding his/her situation and assessing his/her capacity to contribute during the time. After doing that, I will try to reallocate the task to consider the redistribution of the developers	tasks among the rest of the team for a temporary time and adjust the schedule accordingly in a possible time. To do that, communicating with the stakeholders by updating the R&D Department or informing them about the temporary changes in availability, will emphasize the team’s commitment and efforts to stay on track. By doing so, implementing a backup plan such as training the team members to ensure another team member is familiar with the critical parts of the project so that they can quickly step in if necessary.
+
+2.	As a Developer: 
+
+	As a developer, immediate communication to inform the manager and proposing a plan if possible, so that by sharing as much information that I can, it will also be comfortable with every team member about what my situation is and what impact it will have on my availability. Also, by outlining a plan for how the team might handle things remotely and partially, or specify what kind of assistance I might need to still continue on managing the project. Documenting the situation will allow me to create or update my work so that it would be easier for my team members to assist and which one of my team members could temporarily take on some of my responsibilities and ensure they have access to necessary resources. To do that, I should maintain updates and discuss it with my manager to be able to check in, even if briefly, so that I could stay connected throughout the progress of the project.
+
+3.	What Could Have Been Done Better?
+
+		It could have been better if a risk management and contingency plan to regularly train each member of the team that can cover critical aspects of the project. Also, this can establish a back-up strategy to implement a formalized back-up plan for projects including a protocol for handling absences. Load balancing and work distribution to prioritize key deliverables and doing regular check-ins with the R&D team. Lastly, effective communication channels will encourage open communication where team members feel comfortable by sharing potential issues early on and allowing managers to anticipate and address challenges actively, this way, maintaining a central or main repository for all project-related for documentation will enable the team member to pick up tasks when needed. 
